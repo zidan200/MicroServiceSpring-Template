@@ -1,4 +1,4 @@
-# e2e example
+# E2E example
 # Description
 Creating a Microservice template for Handling Employee services
    - Employee CRUD
